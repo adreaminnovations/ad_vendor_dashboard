@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 {
     "name": "Vendor Dashboard",
     "version": "18.0.1.0",
